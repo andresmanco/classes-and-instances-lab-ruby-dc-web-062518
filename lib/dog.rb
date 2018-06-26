@@ -1,5 +1,5 @@
-class dog
+class Dog
   
 end
 
-jack
+jack = Dog.new
